@@ -9,4 +9,4 @@ If you're stuck, or otherwise interested, I hope this repo can help your journey
 
 =)
 
-![alt text](https://raw.githubusercontent.com/kenlies/ft_printf/main/125.png)
+<img width="644" alt="125" src="https://user-images.githubusercontent.com/97135325/207169463-6830b696-0457-46cd-a2da-570cf1147779.png">
