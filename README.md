@@ -8,3 +8,5 @@ I have made two tester mains, one for the mandatory part and one for the bonus p
 If you're stuck, or otherwise interested, I hope this repo can help your journey in some ways atleast, even though it can be, at times, a bit hard to read.
 
 =)
+
+![alt text](https://raw.githubusercontent.com/kenlies/ft_printf/main/125.png)
