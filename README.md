@@ -1,4 +1,4 @@
-# ft_printf(Hive)
+# ft_printf
 ## My hive (42) school ft_printf project with [BONUSES] =D
 
 You can find better solutions on github for sure, and this is mine, but don't lose too many braincells reading it.
