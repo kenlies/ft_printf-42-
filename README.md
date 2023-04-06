@@ -10,6 +10,7 @@ For example: precision with pointer conversion.
 
 If you're stuck, or otherwise interested, I hope this repo can help your journey in some ways atleast, even though it can be, at times, a bit hard to read.
 
+- I've included the subject as always.
 =)
 
 <img width="644" alt="125" src="https://user-images.githubusercontent.com/97135325/207169463-6830b696-0457-46cd-a2da-570cf1147779.png">
